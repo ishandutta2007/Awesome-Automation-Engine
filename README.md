@@ -5,6 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Automation-Engine?style=for-the-badge&logo=github&color=blue)](https://github.com/ishandutta2007/Awesome-Automation-Engine/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
 
@@ -24,6 +25,8 @@
 - [🔓 Open-Source Workflow & Automation Engines](#-open-source-workflow--automation-engines)
 - [🧭 Choosing the Right Automation Engine](#-choosing-the-right-automation-engine)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -91,6 +94,22 @@ Contributions are always welcome! 💖
 3. 💾 Commit your changes (`git commit -m 'feat: add new automation engine'`).
 4. 📤 Push to the branch (`git push origin feature/awesome-engine`).
 5. 🔍 Open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome Automation Engine**! If you find this curated collection helpful:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and share it with your engineering team, peers, and communities.
+- ☕ If you'd like to support the ongoing maintenance and curation of open-source projects like this, consider buying me a coffee via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Automation-Engine&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Automation-Engine&type=date&legend=top-left)
 
 ---
 
