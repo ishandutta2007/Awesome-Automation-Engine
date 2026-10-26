@@ -56,7 +56,7 @@ Below is a comparison of top enterprise SaaS automation and integration platform
 
 ## 🔓 Open-Source Workflow & Automation Engines
 
-Top battle-tested open-source workflow and automation repositories, ranked descending by GitHub Stars_Count:
+Top battle-tested open-source workflow and automation repositories, ranked descending by GitHub_Stars_Count:
 
 | 💻 Open-Source Project | ⭐ GitHub_Stars | 🧰 Architecture / Language | 🚀 Description & Core Strengths |
 | :--- | :---: | :--- | :--- |
